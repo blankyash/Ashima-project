@@ -34,7 +34,7 @@ body{
     margin-top: 0;
     height: 400px;
     background-color: rgba(0,0,0,1);
-    background: url('../img/work.jpg') no-repeat fixed ;
+    background: url('work.jpg') no-repeat fixed ;
     background-size: cover;
 
 
@@ -102,7 +102,7 @@ body{
   margin-top: 0;
   height: 300px;
   background-color: rgba(0,0,0,1);
-  background: url('../img/action03.jpg') no-repeat fixed ;
+  background: url('action03.jpg') no-repeat fixed ;
   background-size: cover;
 
 }
