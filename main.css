@@ -1,0 +1,140 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+.navbar-static-top{
+  min-height: 80px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  background-color: #C52620;
+  position: relative;
+}
+
+.navbar-brand{
+
+}
+
+.nav .navbar-nav{
+  color: #fff;
+
+}
+.navbar-nav li a{
+  line-height:30px;
+  height: 50px;
+  padding-top: 20px;
+  padding-right: 50px;
+  color: #ffffff;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #f9f9f9;
+    font-size: 1.5em;
+}
+
+  .wrapper-first{
+    margin-top: 0;
+    height: 400px;
+    background-color: rgba(0,0,0,1);
+    background: url('../img/work.jpg') no-repeat fixed ;
+    background-size: cover;
+
+
+  }
+
+.wrapper-first h1{
+  text-align: center;
+  padding-top: 160px;
+  font-size: 4.2em;
+  vertical-align: center;
+  color: #fff;
+}
+
+.wrapper-overlay{
+  padding-top: 0;
+  height: 100%;
+  background-color: rgba(0,0,0,0.6);
+}
+
+.btn-first{
+  text-align:center;
+  border-radius: 0;
+  background-color:rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 15px 25px 15px 25px;
+  font-size:1.6em;
+}
+
+.about{
+  padding-top: 30px;
+  background-color: #f2f2f2;
+  padding-bottom: 30px;
+  color: #494949;
+}
+
+.thumbnail{
+  height: 100px;
+  display: inline-block;
+  float: none;
+  align-items: center;
+  width: 100px;
+  border-style: none;
+  background: #f2f2f2;
+  padding-bottom: 0;
+  margin-bottom: 0px;
+}
+
+
+.about .h1-p{
+  font-size: 16px;
+  padding: 0px 100px 0px 100px;
+  text-align: center;
+  text-align-last: justify;
+  -moz-text-align-last: justify;
+}
+
+.about .h2-p{
+  font-size: 16px;
+  text-align: center;
+  text-align-last: justify;
+  -moz-text-align-last: justify;
+}
+
+.wrapper-second{
+  margin-top: 0;
+  height: 300px;
+  background-color: rgba(0,0,0,1);
+  background: url('../img/action03.jpg') no-repeat fixed ;
+  background-size: cover;
+
+}
+
+.wrapper-second h1{
+  text-align: center;
+  padding-top: 100px;
+  font-size: 3em;
+  color: #fff;
+}
+
+.team-wrapper{
+  background-color: #444444;
+  color: #CCCCAF;
+}
+
+.team-wrapper h1{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-size: 3em;
+}
+
+.border-under{
+  padding-bottom: 5px;
+  border-bottom: 2px solid #C52620;
+}
+
+.tpic{
+  padding: 0;
+  height: 200px;
+  width: 200px;
+  border-width: 0;
+  border-style: none;
+}
