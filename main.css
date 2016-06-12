@@ -87,8 +87,6 @@ body{
   font-size: 16px;
   padding: 0px 100px 0px 100px;
   text-align: center;
-  text-align-last: justify;
-  -moz-text-align-last: justify;
 }
 
 .about .h2-p{
